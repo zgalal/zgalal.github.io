@@ -7,7 +7,7 @@ html {
 body {
     color: #151515;  
     text-align: justify; 
-    margin: 75px 75px 75px 150px;
+    margin: 50px 75px 75px 100px;
       }
 
 #page {
@@ -17,6 +17,12 @@ body {
 
 p{
     margin: 0 0 20px 0 ;
+}
+
+h1{
+    margin: 5px 20 5px;
+    padding: 0;
+    border-bottom: 1px solid #050555;
 }
 
    
